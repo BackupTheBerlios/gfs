@@ -1,0 +1,33 @@
+body { 
+  margin-left: 0px; 
+  margin-right: 0px; 
+  margin-top: 0px; 
+  margin-bottom: 0px;
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-weight: normal; 
+  font-style: normal; 
+  text-decoration: none; 
+  font-size: 14px;
+}
+
+td.menuItem { 
+  background-color: #ffef82;
+  border: 1px solid #000000;
+}
+
+a.menuItem { 
+  color: #000000;
+  text-decoration: none;
+}
+
+a.menuItem:hover { 
+  text-decoration: underline;
+}
+
+.menuItemCurrent { 
+  background-color: #000000;
+  border: 1px solid #000000;
+  color: #ffef82;
+}
+
