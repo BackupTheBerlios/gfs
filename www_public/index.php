@@ -53,7 +53,7 @@ Welcome to the Gnome for SuSE Project page.
 03.03.2003&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this site is still under construction
 </p>
 <p>
-You can get the latest Gnome-2.2-RPM-Packages for SuSE 8.1 build for i686 via ftp-access
+You can get the latest Gnome-2.2-RPM-Packages for SuSE 8.1 build for i686 via anonymous CVS
 </p>
 
 </td></tr>
