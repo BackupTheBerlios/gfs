@@ -1,0 +1,11 @@
+<?php
+
+function menuItem($n,$l) {
+  echo '<tr><td><a href="index.php?item='.$n.'&language='.$l.'" class="menuItem">'.$n.'</td></tr>';
+}
+
+function menuItemCurrent($n) {
+  echo '<tr><td class="menuItemCurrent">'._($n).'</td></tr>';
+}
+
+?>
