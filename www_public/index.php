@@ -14,8 +14,13 @@ textdomain ("gfs");
 <body>
 
 <!-- Top-Logo -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tr><td><img src="img/logo.gif" alt="GfS Logo"></td></tr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="left"><img src="img/logo.gif" alt="GfS Logo"></td>
+<td></td>
+<td align="right" valign="top">
+<a href="http://developer.berlios.de">
+<img src="http://developer.berlios.de/bslogo.php?group_id=677" width="124" height="32" border="0" alt="BerliOS Logo"></a>
+</td></tr>
 </table>
 
 
@@ -40,6 +45,7 @@ menuItem('basic packages');
 menuItem('gnome base');
 menuItem('gnome core');
 menuItem('gadgets');
+menuItem('fifth toe');
 menuItem('applications');
 ?>
 </table>
