@@ -11,23 +11,40 @@ body {
   font-size: 14px;
 }
 
-td.menuItem { 
-  background-color: #ffef82;
-  border: 1px solid #000000;
+.mainMenu {
+	border-collapse: collapse;
 }
 
-a.menuItem { 
+.mainMenu td { 
+	background-color: #ffef82;
+	border: 1px solid #000000;
+	padding: 4px;
+}
+
+.mainMenu a { 
   color: #000000;
   text-decoration: none;
 }
 
-a.menuItem:hover { 
+.mainMenu a:hover { 
   text-decoration: underline;
 }
 
-.menuItemCurrent { 
+td.menuItemCurrent { 
   background-color: #000000;
   border: 1px solid #000000;
   color: #ffef82;
 }
 
+.chooseLanguage {
+	text-align: right;
+}
+
+.chooseLanguage button {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px;  
+	background-color: #ffef82;
+	border: 1px solid #000000;
+	padding: 3px;
+	cursor: pointer;
+}
