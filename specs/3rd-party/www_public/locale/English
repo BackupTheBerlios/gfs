@@ -1,0 +1,17 @@
+<?php
+
+// menue entries
+
+$textPage1='page 1';
+$textBasicPackages='basic packages';
+$textGnomeCore='gnome core';
+$textGnomeExtra='gnome extra';
+$text5thToe='5th toe';
+$text3rdParty='3rd party';
+$textNonGnome='non gnome';
+$textDocumentation='documentation';
+
+$textLanguage='language';
+
+$buttonChange='change';
+?>

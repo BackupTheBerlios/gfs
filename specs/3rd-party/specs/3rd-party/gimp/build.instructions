@@ -1,0 +1,12 @@
+You'll need the packages for building:
+the packages from the basic-tree
+the packages from the gnome-core-tree
+and
+libpng >= 1.2.1	+ devel
+libjpeg >= 6.0	+ devel
+libtiff >= 3.5.7  + devel
+python >= 2.2	  + devel
+pyorbit >= 1.99.3		(from gnome-extra)
+pygtk >= 1.99.13		(from gnome-extra)
+gnome-python >= 1.99.13		(from gnome-extra)
+libgimpprint >= 4.3.3	+ devel

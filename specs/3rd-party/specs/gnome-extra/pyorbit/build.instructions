@@ -1,0 +1,6 @@
+You'll need the packages for building:
+the packages from the basic-tree
+the packages from the gnome-core-tree
+and
+python
+python-devel

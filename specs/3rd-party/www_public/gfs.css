@@ -1,0 +1,50 @@
+body { 
+  margin-left: 0px; 
+  margin-right: 0px; 
+  margin-top: 0px; 
+  margin-bottom: 0px;
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-weight: normal; 
+  font-style: normal; 
+  text-decoration: none; 
+  font-size: 14px;
+}
+
+.mainMenu {
+	border-collapse: collapse;
+}
+
+.mainMenu td { 
+	background-color: #ffef82;
+	border: 1px solid #000000;
+	padding: 4px;
+}
+
+.mainMenu a { 
+  color: #000000;
+  text-decoration: none;
+}
+
+.mainMenu a:hover { 
+  text-decoration: underline;
+}
+
+td.menuItemCurrent { 
+  background-color: #000000;
+  border: 1px solid #000000;
+  color: #ffef82;
+}
+
+.chooseLanguage {
+	text-align: right;
+}
+
+.chooseLanguage button {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px;  
+	background-color: #ffef82;
+	border: 1px solid #000000;
+	padding: 3px;
+	cursor: pointer;
+}

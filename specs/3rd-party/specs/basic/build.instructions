@@ -1,0 +1,33 @@
+Before you start uninstall the following devel-packages:
+popt-devel
+pilot-link-devel
+libxml2-devel
+libxslt-devel
+esound-devel
+
+This is the recommended build order for basic packages:
+popt
+pkgconfig
+pilot-link
+fontconfig
+xft        (for installing use --replacefiles rpm-option)
+startup-notification
+libxml2
+libxslt
+audiofile
+esound
+a52dec
+lame
+xine-lib   (for installing use --replacefiles rpm-option)
+
+You'll need the following devel-packages for building:
+alsa-devel
+freetype2-devel
+glibc-devel
+libgcj-devel
+libogg-devel
+libstdc++-devel
+libvorbis-devel
+readline-devel
+xdevel
+zlib-devel

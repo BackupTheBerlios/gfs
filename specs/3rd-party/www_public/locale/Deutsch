@@ -1,0 +1,16 @@
+<?php
+
+// Menü-Einträge
+
+$textPage1='Seite 1';
+$textBasicPackages='Basis-Pakete';
+$textGnomeCore='Gnome Kern';
+$textGnomeExtra='Gnome Extras';
+$textNonGnome='non-Gnome';
+$textDocumentation='Dokumentation';
+
+$textLanguage='Sprache';
+
+$buttonChange='&auml;ndern';
+
+?>
